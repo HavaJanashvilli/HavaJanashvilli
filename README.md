@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/awakzdev/awakzdev/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div>  
  
-### <div align="center">I'm Elazar, a full-time DevOps Engineer 👨‍💻  🚀</div>  
+### <div align="center">I'm Hava, a DevOps Engineer 👨‍💻  🚀</div>  
 
 <a href=#><img src="contributions.svg"></a>
 
